@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zehui Yin</h1>
-<h3 align="center">Undergraduate Student and Research Assistant at University of Toronto Scarborough</h3>
+<h3 align="center">Undergraduate Student at University of Toronto Scarborough, Incoming Geography PhD student at McMaster University</h3>
 
 - 👨‍💻 My selected projects are available at [Data Visualization](https://zehuiyin.github.io/data_visualization.html) or [Analysis](https://zehuiyin.github.io/data_analysis.html)
 
