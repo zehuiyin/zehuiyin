@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zehui Yin</h1>
+<h1 align="center">Hi 👋, I'm Zehui Yin (殷泽辉)</h1>
 <h3 align="center">Undergraduate Student at University of Toronto Scarborough</h3>
 <h3 align="center">Incoming Geography PhD Student at McMaster University</h3>
 
