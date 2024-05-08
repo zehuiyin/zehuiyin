@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Student at University of Toronto Scarborough</h3>
 <h3 align="center">Incoming Geography PhD Student at McMaster University</h3>
 
-- 👨‍💻 My selected projects are available at [Data Analysis](https://zehuiyin.github.io/data_analysis.html) and [Data Visualization](https://zehuiyin.github.io/data_visualization.html).
+- 👨‍💻 My selected projects are available at [Data Analysis](https://zehuiyin.github.io/data_analysis.html) and [Data Visualization](https://zehuiyin.github.io/data_visualization.html)
 
 - 💬 Ask me about [*R*](https://www.r-project.org/) and [*GIS*](https://en.wikipedia.org/wiki/Geographic_information_system)
 
