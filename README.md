@@ -39,5 +39,5 @@
 
 <h3 align="left">Find me at:</h3>
 <p align="center"> 
-  <a href="https://zehuiyin.github.io/utsc_location/" target="_blank"> <img src="./icons/utsc.png" alt="utsc"/></a>
+  <a href="https://zehuiyin.github.io/utsc_location/" target="_blank"> <img src="./icons/mac.png" alt="utsc"/></a>
 </p>
