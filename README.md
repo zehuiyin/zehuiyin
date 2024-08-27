@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zehui Yin (殷泽辉)</h1>
-<h3 align="center">Incoming Geography PhD Student at McMaster University</h3>
+<h3 align="center">Geography PhD Student at McMaster University</h3>
 
 - 👨‍💻 My selected projects are available at [Data Analysis](https://zehuiyin.github.io/data_analysis.html) and [Data Visualization](https://zehuiyin.github.io/data_visualization.html)
 
