@@ -5,7 +5,7 @@
 
 - 💬 Ask me about [*R*](https://www.r-project.org/) and [*GIS*](https://en.wikipedia.org/wiki/Geographic_information_system)
 
-- 📫 How to reach me **yinz39@mcmaster.ca**/**zehui.yin@mail.utoronto.ca**/**zehuiyin@gmail.com**
+- 📫 How to reach me **yinz39@mcmaster.ca**/**zehuiyin@gmail.com**
 
 - 📄 Know about my experiences [CV.pdf](https://zehuiyin.github.io/files/CV.pdf)
 
