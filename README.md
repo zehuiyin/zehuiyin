@@ -5,9 +5,9 @@
 
 - 💬 Ask me about [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [Data Science](https://en.wikipedia.org/wiki/Data_science) in [R](https://www.r-project.org/) and [Python](https://www.python.org/)
 
-- 📫 How to reach me yinz39@mcmaster.ca or zehuiyin@gmail.com
+- 📫 Reach me at yinz39@mcmaster.ca or zehuiyin@gmail.com
 
-- 📄 Know about my experiences [Personal Website](https://zehuiyin.github.io/) and [CV.pdf](https://zehuiyin.github.io/files/CV.pdf)
+- 📄 Know about my experiences at [Personal Website](https://zehuiyin.github.io/) and [CV.pdf](https://zehuiyin.github.io/files/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
