@@ -3,7 +3,7 @@
 
 - 👨‍💻 My selected projects are available at [Data Analysis](https://zehuiyin.github.io/data_analysis.html) and [Data Visualization](https://zehuiyin.github.io/data_visualization.html)
 
-- 💬 Ask me about [*R*](https://www.r-project.org/) and [*GIS*](https://en.wikipedia.org/wiki/Geographic_information_system)
+- 💬 Ask me about [*GIS*](https://en.wikipedia.org/wiki/Geographic_information_system) and [*Data Science*](https://en.wikipedia.org/wiki/Data_science) in [*R*](https://www.r-project.org/) and [*Python*](https://www.python.org/)
 
 - 📫 How to reach me **yinz39@mcmaster.ca**/**zehuiyin@gmail.com**
 
@@ -25,16 +25,6 @@
   <a href="https://qgis.org/en/site/" target="_blank"><img src="./icons/QGIS.png" alt="QGIS" height="40"/></a> &nbsp;
   <a href="https://www.markdownguide.org/" target="_blank"><img src="./icons/Markdown.png" alt="Markdown" height="40"/></a> &nbsp;
   <a href="https://www.overleaf.com/" target="_blank"><img src="./icons/Overleaf.png" alt="Overleaf" height="40"/></a>
-</p>
-
-<h3 align="left">Data Analysis and Visualization Packages in <i>R</i>:</h3>
-<p align="center"> 
-  <a href="https://r-spatial.github.io/sf/" target="_blank"><img src="./icons/sf.png" alt="sf" height="50"/></a> &nbsp;
-  <a href="https://rspatial.github.io/terra/reference/terra-package.html" target="_blank" rel="noreferrer"><img src="./icons/terra.png" alt="terra" height="50"/></a> &nbsp;
-  <a href="https://ipeagit.github.io/r5r/" target="_blank"><img src="./icons/r5r.png" alt="r5r" height="50"/></a> &nbsp;
-  <a href="https://ggplot2.tidyverse.org/" target="_blank"><img src="./icons/ggplot2.png" alt="ggplot2" height="50"/></a> &nbsp;
-  <a href="http://www.apollochoicemodelling.com/" target="_blank"><img src="./icons/apollo.png" alt="apollo" height="50"/></a> &nbsp;
-  <a href="https://plotly.com/r/" target="_blank"><img src="./icons/plotly.png" alt="plotly" height="50"/></a>
 </p>
 
 <h3 align="left">Find me at:</h3>
