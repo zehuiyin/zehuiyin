@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/zehuiyin" target="_blank"><img src="./icons/twitter.svg" alt="Twitter/X" height="40"/></a>&emsp;
+  <a href="https://twitter.com/zehuiyin" target="_blank"><img src="./icons/twitter.png" alt="Twitter/X" height="40"/></a>&emsp;
   <a href="https://www.linkedin.com/in/zehuiyin/" target="_blank"><img src="./icons/LinkedIn.png" alt="LinkedIn" height="40"/></a>&emsp;
   <a href="https://orcid.org/0000-0001-6954-7918" target="_blank"><img src="./icons/ORCID.png" alt="ORCID" height="40"/></a>&emsp;
   <a href="https://scholar.google.com/citations?user=IC7pmh0AAAAJ&hl=en" target="_blank"><img src="./icons/Google_Scholar.png" alt="Google Scholar" height="40"/></a>
